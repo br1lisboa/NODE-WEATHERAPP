@@ -2,10 +2,14 @@
 
 ## *Installation*
 *Clone the repository.* 
+
 *Run in console:*
+
 *1-npm install (to install dependencies)*
 
-*2-npm app.js (to start the application)*
+*2-Create your own .env file with the MapBox and WhaterBit keys.*
+
+*3-npm app.js (to start the application)*
 
 ## *Some characteristics*
 *Interactive application made entirely with NODEJS. With directional and numerical options to be able to search for the weather and the geographical location of countries, it also has the functionality of a history that is saved in a persistent database.*
